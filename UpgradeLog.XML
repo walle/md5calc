@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="MD5Calc">
+</Property><Property Name="Solution File" Value="G:\Kod\C#\MD5Calc\MD5Calc.sln">
+</Property><Property Name="User Options File" Value="G:\Kod\C#\MD5Calc\MD5Calc.suo">
+</Property><Property Name="Date" Value="den 8 januari 2009">
+</Property><Property Name="Time" Value="04:59">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="MD5Calc.sln" Description="File successfully backed up as G:\Kod\C#\MD5Calc\Backup\MD5Calc.sln">
+</Event><Event ErrorLevel="0" Project="" Source="MD5Calc.suo" Description="File successfully backed up as G:\Kod\C#\MD5Calc\Backup\MD5Calc.suo">
+</Event><Event ErrorLevel="0" Project="MD5Calc" Source="MD5Calc\MD5Calc.csproj" Description="Project file successfully backed up as G:\Kod\C#\MD5Calc\Backup\MD5Calc\MD5Calc.csproj">
+</Event><Event ErrorLevel="0" Project="MD5Calc" Source="MD5Calc\MD5Calc.csproj.user" Description="Project user file successfully backed up as G:\Kod\C#\MD5Calc\Backup\MD5Calc\MD5Calc.csproj.user">
+</Event><Event ErrorLevel="0" Project="MD5Calc" Source="MD5Calc\MainForm.cs" Description="File successfully backed up as G:\Kod\C#\MD5Calc\Backup\MD5Calc\MainForm.cs">
+</Event><Event ErrorLevel="0" Project="MD5Calc" Source="MD5Calc\MainForm.Designer.cs" Description="File successfully backed up as G:\Kod\C#\MD5Calc\Backup\MD5Calc\MainForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MD5Calc" Source="MD5Calc\Program.cs" Description="File successfully backed up as G:\Kod\C#\MD5Calc\Backup\MD5Calc\Program.cs">
+</Event><Event ErrorLevel="0" Project="MD5Calc" Source="MD5Calc\Properties\AssemblyInfo.cs" Description="File successfully backed up as G:\Kod\C#\MD5Calc\Backup\MD5Calc\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="MD5Calc" Source="MD5Calc\Properties\Resources.Designer.cs" Description="File successfully backed up as G:\Kod\C#\MD5Calc\Backup\MD5Calc\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MD5Calc" Source="MD5Calc\Properties\Settings.Designer.cs" Description="File successfully backed up as G:\Kod\C#\MD5Calc\Backup\MD5Calc\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MD5Calc" Source="MD5Calc\app.config" Description="File successfully backed up as G:\Kod\C#\MD5Calc\Backup\MD5Calc\app.config">
+</Event><Event ErrorLevel="0" Project="MD5Calc" Source="MD5Calc\MD5Calc_TemporaryKey.pfx" Description="File successfully backed up as G:\Kod\C#\MD5Calc\Backup\MD5Calc\MD5Calc_TemporaryKey.pfx">
+</Event><Event ErrorLevel="0" Project="MD5Calc" Source="MD5Calc\Properties\Settings.settings" Description="File successfully backed up as G:\Kod\C#\MD5Calc\Backup\MD5Calc\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="MD5Calc" Source="MD5Calc\MainForm.resx" Description="File successfully backed up as G:\Kod\C#\MD5Calc\Backup\MD5Calc\MainForm.resx">
+</Event><Event ErrorLevel="0" Project="MD5Calc" Source="MD5Calc\Properties\Resources.resx" Description="File successfully backed up as G:\Kod\C#\MD5Calc\Backup\MD5Calc\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="MD5Calc" Source="MD5Calc\Properties\app.manifest" Description="File successfully backed up as G:\Kod\C#\MD5Calc\Backup\MD5Calc\Properties\app.manifest">
+</Event><Event ErrorLevel="0" Project="MD5Calc" Source="MD5Calc\MD5Calc.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="MD5Calc" Source="MD5Calc\MD5Calc.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="MD5Calc.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="MD5Calc.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MD5Calc" Source="MD5Calc\MD5Calc.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

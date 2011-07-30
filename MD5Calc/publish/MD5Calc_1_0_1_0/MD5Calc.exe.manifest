@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly manifestVersion="1.0" xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <asmv1:assemblyIdentity name="MD5Calc.exe" version="1.0.1.0" publicKeyToken="3307e1381a846883" language="en" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="MD5Calc" version="1.0.1.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="MD5Calc.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet class="System.Security.PermissionSet" version="1" Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="4" minorVersion="10" buildNumber="0" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="2.0.50727.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MD5Calc.exe" size="28672">
+      <assemblyIdentity name="MD5Calc" version="1.0.1.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>ZVrM3Q9yzWcVSX4upBnJ3HsVJqE=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="MD5Calc.exe.config" size="924">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>r+yOMqvWJKxAbe0/7xyB8Su/0FI=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=SMOK\walle" issuerKeyHash="13929e420c9e7afb1847eafe5eef403d90f7232d" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>MQO6M2EX0XcK2ZrSATWh6b2uPRU=</DigestValue></Reference></SignedInfo><SignatureValue>OOKiRbzjp29/K+lp41z9KaBOPPqsQFOhxtDCwVmFoIXociF3en6glQfKgKnP2Krjux49iS5C7c1BAxrLe2XbXsS2m4j3NpwNW1X3SbYFFXMw3dOrZsV+LCw65pTWmXIK6A9Pb7npevqscpBuNq8kKtRAVjc+utKVlnO9lFvc7/w=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>6MDsvEnWtKpyHMd36VelV5h63JZ1IfVcuw6JOxafhLGcuX5UWl26lNoNGiwK5E+wK9Wi9iwXw4560L1RG3GLMKB2Z4ReWzX2MULVrE8HKrE4PvJ7tAlhSkd0B0ZQ68fi4LkHZhDj3QVS2WPnYJIPacqymlmqOOpzg+XtSFprYyM=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="153daebde9a13501d29ad90a77d1176133ba0331" Description="" Url=""><as:assemblyIdentity name="MD5Calc.exe" version="1.0.1.0" publicKeyToken="3307e1381a846883" language="en" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=SMOK\walle</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>XbP4mQKVh/CGp0EzilSMMsG7ibE=</DigestValue></Reference></SignedInfo><SignatureValue>HZm/qnXrFkwZRTN9Z+bBrAEU3mhXUDtplcbkH6A4KVxHIgPJ0ZSWExxbUxs6Ki0BeDC02EjYY0Ue1o+ig9kwXfiKxzCqNLMHxVV/o6rcwvEvsaUIkXBHARlGh/ME+CtaLzNu6oiTXgb66DV5lRnbS1+X6Q7LwfsYJeOoujPrjKE=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>6MDsvEnWtKpyHMd36VelV5h63JZ1IfVcuw6JOxafhLGcuX5UWl26lNoNGiwK5E+wK9Wi9iwXw4560L1RG3GLMKB2Z4ReWzX2MULVrE8HKrE4PvJ7tAlhSkd0B0ZQ68fi4LkHZhDj3QVS2WPnYJIPacqymlmqOOpzg+XtSFprYyM=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIBuTCCASagAwIBAgIQXWgTxa7LtIJI1VVgzaQn/zAJBgUrDgMCHQUAMB8xHTAbBgNVBAMeFABTAE0ATwBLAFwAdwBhAGwAbABlMB4XDTA3MTAxNTAwMjcxOVoXDTA4MTAxNDA2MjcxOVowHzEdMBsGA1UEAx4UAFMATQBPAEsAXAB3AGEAbABsAGUwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAOjA7LxJ1rSqchzHd+lXpVeYetyWdSH1XLsOiTsWn4SxnLl+VFpdupTaDRosCuRPsCvVovYsF8OOetC9URtxizCgdmeEXls19jFC1axPByqxOD7ye7QJYUpHdAdGUOvH4uC5B2YQ490FUtlj52CSD2nKsppZqjjqc4Pl7Uhaa2MjAgMBAAEwCQYFKw4DAh0FAAOBgQC/S/uHO2UIVzk2hPN/sHLPDKSiIgue/oSqI7zhZhf4jQnBRhRjgrpdvGbvl45mtEHOSLuc0o3g3y3zXmJYubc3Bwwtc0qPwaAwAb/AWUKf2acfxMJ5LzSs0ojcHL8WeM4OtYFlYjfGG48h27jYS7gw0LX/DqhsC3LoN/t2GwM/tg==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

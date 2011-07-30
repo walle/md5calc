@@ -1,0 +1,15 @@
+G:\Kod\C#\MD5Calc\MD5Calc\bin\Release\MD5Calc.exe.config
+G:\Kod\C#\MD5Calc\MD5Calc\bin\Release\MD5Calc.exe.manifest
+G:\Kod\C#\MD5Calc\MD5Calc\bin\Release\MD5Calc.application
+G:\Kod\C#\MD5Calc\MD5Calc\bin\Release\doc.xml
+G:\Kod\C#\MD5Calc\MD5Calc\bin\Release\MD5Calc.exe
+G:\Kod\C#\MD5Calc\MD5Calc\bin\Release\MD5Calc.pdb
+G:\Kod\C#\MD5Calc\MD5Calc\obj\Release\ResolveAssemblyReference.cache
+G:\Kod\C#\MD5Calc\MD5Calc\obj\Release\MD5Calc.MainForm.resources
+G:\Kod\C#\MD5Calc\MD5Calc\obj\Release\MD5Calc.Properties.Resources.resources
+G:\Kod\C#\MD5Calc\MD5Calc\obj\Release\MD5Calc.csproj.GenerateResource.Cache
+G:\Kod\C#\MD5Calc\MD5Calc\obj\Release\MD5Calc.TrustInfo.xml
+G:\Kod\C#\MD5Calc\MD5Calc\obj\Release\MD5Calc.exe.manifest
+G:\Kod\C#\MD5Calc\MD5Calc\obj\Release\MD5Calc.application
+G:\Kod\C#\MD5Calc\MD5Calc\obj\Release\MD5Calc.exe
+G:\Kod\C#\MD5Calc\MD5Calc\obj\Release\MD5Calc.pdb

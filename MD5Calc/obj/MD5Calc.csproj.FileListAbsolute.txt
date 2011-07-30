@@ -1,0 +1,3 @@
+D:\CodeBase\C#\MD5Calc\MD5Calc\bin\Debug\MD5Calc.exe.config
+D:\CodeBase\C#\MD5Calc\MD5Calc\obj\Debug\MD5Calc.exe
+D:\CodeBase\C#\MD5Calc\MD5Calc\obj\Debug\MD5Calc.pdb

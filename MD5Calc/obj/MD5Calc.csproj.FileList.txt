@@ -1,0 +1,15 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\MD5Calc.MainForm.resources
+obj\Debug\MD5Calc.Properties.Resources.resources
+obj\Debug\MD5Calc.csproj.GenerateResource.Cache
+bin\Debug\MD5Calc.exe
+bin\Debug\MD5Calc.pdb
+obj\Debug\MD5Calc.exe
+obj\Debug\MD5Calc.pdb
+bin\Debug\MD5Calc.exe.config
+bin\Debug\MD5Calc.exe.manifest
+bin\Debug\MD5Calc.application
+bin\Debug\doc.xml
+obj\Debug\MD5Calc.TrustInfo.xml
+obj\Debug\MD5Calc.exe.manifest
+obj\Debug\MD5Calc.application
